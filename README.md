@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning HCIA AI by Huawei
 - 💞️ I’m looking to collaborate on any front-end/ back web development
 - 📫 How to reach me: cecakeyo@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I can recite the entire ASCII table… backwards.😏
 
 - 🛠️ Tech Stack
 Languages & Frameworks:
